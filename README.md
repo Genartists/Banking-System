@@ -10,7 +10,7 @@ Hi, this is my small project **Java-based backend banking system** that allows u
 
 ## Technologies Used
 - **Java** (Core Logic & Object-Oriented Design)
-- **File Handling** (Data Persistence)
+- **File I/O** (Data Persistence)
 
 ## Installation & Usage
 
