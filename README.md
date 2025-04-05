@@ -1,4 +1,4 @@
-# Banking System Backend Application
+# CLI Banking System
 Hi, this is my small project **Java-based backend banking system** that allows users to create and manage bank accounts, perform transactions, and login operations for security.
 
 ## Features
